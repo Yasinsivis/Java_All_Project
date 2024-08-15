@@ -1,0 +1,90 @@
+[submodule "PrimeNumbers"]
+	path = PrimeNumbers
+	url = https://github.com/Yasinsivis/PrimeNumbers
+[submodule "InvertedTriangle"]
+	path = InvertedTriangle
+	url = https://github.com/Yasinsivis/InvertedTriangle
+[submodule "PerfectNumbers"]
+	path = PerfectNumbers
+	url = https://github.com/Yasinsivis/PerfectNumbers
+[submodule "MinandMax"]
+	path = MinandMax
+	url = https://github.com/Yasinsivis/MinandMax
+[submodule "EBOBveEKOK"]
+	path = EBOBveEKOK
+	url = https://github.com/Yasinsivis/EBOBveEKOK
+[submodule "AtmProject"]
+	path = AtmProject
+	url = https://github.com/Yasinsivis/AtmProject
+[submodule "DiamondsAndStars"]
+	path = DiamondsAndStars
+	url = https://github.com/Yasinsivis/DiamondsAndStars
+[submodule "HarmonicNumbers"]
+	path = HarmonicNumbers
+	url = https://github.com/Yasinsivis/HarmonicNumbers
+[submodule "BasamakToplama"]
+	path = BasamakToplama
+	url = https://github.com/Yasinsivis/BasamakToplama
+[submodule "ArmStrongSayilar"]
+	path = ArmStrongSayilar
+	url = https://github.com/Yasinsivis/ArmStrongSayilar
+[submodule "Dongu-5"]
+	path = Dongu-5
+	url = https://github.com/Yasinsivis/Dongu-5
+[submodule "Donguler-3"]
+	path = Donguler-3
+	url = https://github.com/Yasinsivis/Donguler-3
+[submodule "donguler-2"]
+	path = donguler-2
+	url = https://github.com/Yasinsivis/donguler-2
+[submodule "Donguler-1"]
+	path = Donguler-1
+	url = https://github.com/Yasinsivis/Donguler-1
+[submodule "ArtikYil"]
+	path = ArtikYil
+	url = https://github.com/Yasinsivis/ArtikYil
+[submodule "ChineseZodiac"]
+	path = ChineseZodiac
+	url = https://github.com/Yasinsivis/ChineseZodiac
+[submodule "UcakBiletiFiyatiHesaplama"]
+	path = UcakBiletiFiyatiHesaplama
+	url = https://github.com/Yasinsivis/UcakBiletiFiyatiHesaplama
+[submodule "horoscopes"]
+	path = horoscopes
+	url = https://github.com/Yasinsivis/horoscopes
+[submodule "NumberSequence"]
+	path = NumberSequence
+	url = https://github.com/Yasinsivis/NumberSequence
+[submodule "HavaDerecesi"]
+	path = HavaDerecesi
+	url = https://github.com/Yasinsivis/HavaDerecesi
+[submodule "NotOrtalamasiHesaplama"]
+	path = NotOrtalamasiHesaplama
+	url = https://github.com/Yasinsivis/NotOrtalamasiHesaplama
+[submodule "NewPerson"]
+	path = NewPerson
+	url = https://github.com/Yasinsivis/NewPerson
+[submodule "HesapMakinesi"]
+	path = HesapMakinesi
+	url = https://github.com/Yasinsivis/HesapMakinesi
+[submodule "Manav"]
+	path = Manav
+	url = https://github.com/Yasinsivis/Manav
+[submodule "KiloBoyIndeksi"]
+	path = KiloBoyIndeksi
+	url = https://github.com/Yasinsivis/KiloBoyIndeksi
+[submodule "DaireAlani"]
+	path = DaireAlani
+	url = https://github.com/Yasinsivis/DaireAlani
+[submodule "JavaOgreniyorum3"]
+	path = JavaOgreniyorum3
+	url = https://github.com/Yasinsivis/JavaOgreniyorum3
+[submodule "JavaOgreniyorum2"]
+	path = JavaOgreniyorum2
+	url = https://github.com/Yasinsivis/JavaOgreniyorum2
+[submodule "JavaOgreniyorum"]
+	path = JavaOgreniyorum
+	url = https://github.com/Yasinsivis/JavaOgreniyorum
+[submodule "Recursive_Example3"]
+	path = Recursive_Example3
+	url = https://github.com/Yasinsivis/Recursive_Example3
